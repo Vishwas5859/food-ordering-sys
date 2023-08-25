@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name": "Tandoori chicken 4 pcs",
+        "quantity": "4 pcs ",
+        "price": 240.0,
+        "discount": 5,
+        "discounted_price": 228.0,
+        "stock": 20
+    },
+    "2": {
+        "name": "vegan burger",
+        "quantity": "1",
+        "price": "300",
+        "discount": 5,
+        "discounted_price": 304.0,
+        "stock": 20
+    },
+    "3": {
+        "name": "Truffle cake",
+        "quantity": "1",
+        "price": 900.0,
+        "discount": 10,
+        "discounted_price": 810.0,
+        "stock": 10
+    }
+}
